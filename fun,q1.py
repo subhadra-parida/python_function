@@ -1,0 +1,11 @@
+def function_say():
+    print("Aapko milke maza aaya")
+    print("Bye_bye")
+    print("Aapko milke maza aaya")
+    print("Bye_bye")
+    print("Python ka iastemal bohot jagah hota hai")
+    print("Aapko milke maza aaya")
+    print("Bye_bye")
+    print("Aapko milke maza aaya")
+    print("Bye_bye")
+function_say()
